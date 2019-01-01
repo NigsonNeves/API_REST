@@ -1,0 +1,17 @@
+{
+  "name": "api_etna",
+  "version": "1.0.0",
+  "description": "Rattrapage ETNA",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "mysql": "^2.16.0",
+    "randomstring": "^1.1.5"
+  }
+}
